@@ -2,6 +2,9 @@
 # Description 
 A portfolio, using your new React skills to create a portfolio for yourself. You will be able to deploy this portfolio so that you can show off your work to your friends and potential employers!
 
+## Deploy link
+https://jessgonzalez-reactport-f236a6.netlify.app/
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
