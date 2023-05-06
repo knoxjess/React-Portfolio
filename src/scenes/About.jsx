@@ -14,14 +14,14 @@ const About = ({ setSelectedPage }) => {
         {isAboveLarge ? (
           <div className="relative">
             <img
-              alt="profile"
+              alt="me"
               className="transition duration-500 z-10 w-full max-h-[900px] md:max-w-[400px]"
               src="assets/me.jpg"
             />
           </div>
         ) : (
           <img
-            alt="profile"
+            alt="me"
             className="z-10 w-full max-w-[400px] md:max-w-[600px]"
             src="assets/me.jpg"
           />

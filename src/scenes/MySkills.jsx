@@ -31,7 +31,7 @@ const MySkills = () => {
           </p>
           <p className="mt-10 mb-7">
           <a href="https://skillicons.dev">
-                     <img src="https://skillicons.dev/icons?i=git,css,github,gitlab,heroku,html,java,js,mysql,react,sequelize,vscode,nodejs" /></a>
+                     <img alt="icons" src="https://skillicons.dev/icons?i=git,css,github,gitlab,heroku,html,java,js,mysql,react,sequelize,vscode,nodejs" /></a>
           </p>
         </motion.div>
 
