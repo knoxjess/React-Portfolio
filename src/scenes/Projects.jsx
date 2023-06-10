@@ -83,7 +83,7 @@ const Projects = () => {
           {/* ROW 2 */}
           <a href="https://knoxjess.github.io/M.IPHY/"><Project title="Project 3" />M.IPHY-Movie Gifs</a>
           <a href="https://knoxjess.github.io/weather-Third-Party-APIs/"><Project title="Project 4" />Weather-Third-Party-APIs</a>
-          <a href="https://github.com/knoxjess/Social-Network-API"><Project title="Project 5" />Social-Network-API</a>
+          <a href="https://subtle-starlight-0a6081.netlify.app/"><Project title="Calculator" />Project 5</a>
           {/* ROW 3 */}
           <a href="https://fuzzy-giggle13.herokuapp.com/"><Project title="Project 6" />Note Taker</a>
           <a href="https://knoxjess.github.io/CoadingQuizchallenge-4/"><Project title="Project 7" />Coading-Quiz</a>
