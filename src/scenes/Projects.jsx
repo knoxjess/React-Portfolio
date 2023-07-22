@@ -77,22 +77,15 @@ const Projects = () => {
           >
            “Don’t wait for inspiration. It comes while working." - Henri Matisse
           </div>
-          <a href="https://humor-me-daily.herokuapp.com/"><Project title="Project 1" />Humor-Me-Daily</a>
-          <a href="https://restaurant-dotation-app.herokuapp.com/"><Project title="Project 2" />Shared Lunch App</a>
+          <a href="https://humor-me-daily1-d9d178bc2954.herokuapp.com/"><Project title="Project 1" />Humor-Me-Daily</a>
+          <a href="https://shared-lunch-j-0954f2103619.herokuapp.com/"><Project title="Project 2" />Shared Lunch App</a>
 
           {/* ROW 2 */}
           <a href="https://knoxjess.github.io/M.IPHY/"><Project title="Project 3" />M.IPHY-Movie Gifs</a>
           <a href="https://knoxjess.github.io/weather-Third-Party-APIs/"><Project title="Project 4" />Weather-Third-Party-APIs</a>
-          <a href="https://subtle-starlight-0a6081.netlify.app/"><Project title="Calculator" />Project 5</a>
+          <a href="https://knoxjess.github.io/calc.x/"><Project title="Project 5" />Calculator</a>
           {/* ROW 3 */}
-          <a href="https://fuzzy-giggle13.herokuapp.com/"><Project title="Project 6" />Note Taker</a>
-          <a href="https://knoxjess.github.io/CoadingQuizchallenge-4/"><Project title="Project 7" />Coading-Quiz</a>
-          <div
-            className="flex justify-center text-center items-center p-10 bg-[#F29F05]
-              max-w-[600px] max-h-[600px] text-2xl font-playfair font-semibold"
-          >
-           “The future depends on what you do today.” — Mahatma Gandhi 
-          </div>
+         
         </motion.div>
       </div>
     </section>
